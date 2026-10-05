@@ -1,20 +1,34 @@
-## **Olá👋, Eu me chamo Benjamim**
+<h1 align="center">Olá👋, Sou o Benjamim</h1>
 
-⭐**Estudante de Programação e usos de IA em busca de vaga de Jovem Aprendiz**
+<p align="center">
+  Estudante de Programação • Python • Web • IA
+</p>
 
-📖💻 **CONHECIMENTOS DE PROGRAMAÇÃO**
-  - **PYTHON**
-  - **HTML**
-  - **SQL**
+<p align="center">
+  🎯 Jovem Aprendiz • Tecnologia / Administração
+</p>
 
-⚙️🧠 **CONHECIMENTOS DE IA**
-  - **ENGENHARIA DE PROMPTING**
-  - **BRAINSTORMING COM IA**
+---
 
-📖🖊️ **ATUALMENTE ESTUDANDO**
- - **DESENVOLVIMENTO WEB(CSS)**          
+### Sobre mim
 
-🛠️ **FERRAMENTAS UTILIZADAS** 
-  - **VSCODE** | **GITHUB**
-  - **VERCEL**  | **CHATGPT**
-  - **CLAUDE** | **GEMINI**
+Estudante de programação interessado em tecnologia, desenvolvimento web
+e Inteligência Artificial.
+
+### Tecnologias
+
+🐍 *Python* · 🌐 *HTML* · 🗄️ *SQL* · 🎨 *CSS*
+
+### Inteligência Artificial
+
+🤖 Engenharia de Prompt · Brainstorm com IA
+
+### Atualmente estudando
+
+Python CSS Desenvolvimento Web
+
+---
+
+<p align="center">
+  <i>Aprender • Construir • Evoluir</i>
+</p>
