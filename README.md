@@ -1,4 +1,4 @@
-<h1 align="center">Olá👋, Sou o Benjamim</h1>
+<h1 align="center">Olá👋, Me chamo Benjamim</h1>
 
 <p align="center">
   Estudante de Programação • Python • Web • IA
